@@ -1,0 +1,5 @@
+Enter a value: 
+3289235
+Enter a value: 
+9823475
+Number of common 1 bits: 6

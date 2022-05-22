@@ -1,0 +1,5 @@
+Enter a value: 
+4294967295
+Enter a value: 
+4294967295
+Number of common 1 bits: 32

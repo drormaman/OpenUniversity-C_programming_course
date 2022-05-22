@@ -1,0 +1,5 @@
+Enter a value: 
+249
+Enter a value: 
+195
+Number of common 1 bits: 3
