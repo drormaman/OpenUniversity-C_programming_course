@@ -1,0 +1,13 @@
+Enter the vectors size (max size is 100): 4
+
+Enter the 4 vector values
+Enter value 1: 1
+Enter value 2: -2
+Enter value 3: 3
+Enter value 4: -4
+Enter the 4 vector values
+Enter value 1: 6
+Enter value 2: 7
+Enter value 3: 1
+Enter value 4: -2
+The scalar product is: 3

@@ -1,0 +1,15 @@
+Enter the vectors size (max size is 100): 5
+
+Enter the 5 vector values
+Enter value 1: 1
+Enter value 2: 2
+Enter value 3: 3
+Enter value 4: 4
+Enter value 5: 5
+Enter the 5 vector values
+Enter value 1: 5
+Enter value 2: 4
+Enter value 3: 3
+Enter value 4: 2
+Enter value 5: 1
+The scalar product is: 35
