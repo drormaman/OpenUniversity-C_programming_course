@@ -1,0 +1,7 @@
+Please enter a list of chars:
+
+This is _ a simple 123 !@# test INPUt
+with    anot
+her line and tab
+Number of alphanumeric characters: 46
+Total number of characters: 66

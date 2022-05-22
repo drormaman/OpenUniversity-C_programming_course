@@ -1,0 +1,69 @@
+Please enter a list of chars:
+
+Lorem ipsum dolor sit amet, consectetur adipiscing
+ elit. Fusce posuere libero quis mi tempor posuere
+. Praesent quis turpis eleifend, semper urna non, 
+pulvinar est. Aenean vel interdum tellus, ut tempo
+r massa. Fusce id ultrices sapien. Integer id comm
+odo est, vitae tempus turpis. Aenean ut hendrerit 
+libero. Proin dapibus aliquet dolor. Donec ut maur
+is egestas, malesuada enim at, euismod felis. Prae
+sent tincidunt lorem ac justo vulputate maximus.
+N
+am pretium, elit imperdiet imperdiet convallis, ju
+sto erat accumsan tellus, vel dapibus leo tortor s
+ed magna. Quisque convallis libero sit amet iaculi
+s molestie. Cras eget maximus eros. Phasellus tinc
+idunt imperdiet nisi, vitae luctus mi finibus non.
+ Nulla ullamcorper mauris id mauris aliquet, vel p
+haretra diam mollis. Pellentesque id orci in velit
+ feugiat efficitur. In tempus diam id mollis ornar
+e. Phasellus neque turpis, pharetra in dignissim e
+get, vulputate ut massa. Nulla posuere commodo eni
+m non accumsan. Etiam placerat ligula ac magna bla
+ndit molestie.
+Proin in viverra nibh, a convallis 
+erat. Nunc pellentesque odio vel ante mattis tinci
+dunt. Vivamus ac ullamcorper massa. Nunc iaculis, 
+dolor eu cursus lacinia, ex lectus fringilla ligul
+a, at fringilla ipsum eros et velit. Quisque ullam
+corper aliquet rutrum. Praesent sodales nisi sit a
+met varius ornare. Interdum et malesuada fames ac 
+ante ipsum primis in faucibus. Suspendisse velit e
+lit, rhoncus et sagittis vel, pulvinar eu magna. D
+onec tincidunt, lacus sit amet ullamcorper vulputa
+te, ante mi pulvinar nunc, eget elementum lorem er
+at eu lorem. Suspendisse id massa dictum, mollis s
+em in, auctor turpis.
+Duis mollis luctus enim ut c
+ongue. Maecenas aliquet iaculis lectus at commodo.
+ Quisque rutrum massa nibh. Integer pellentesque a
+rcu sit amet lacus sagittis fringilla. Ut convalli
+s mi in ante tincidunt ullamcorper. Donec feugiat 
+ligula justo, vel semper magna laoreet eu. Nam lob
+ortis condimentum volutpat. Pellentesque euismod, 
+tortor sed malesuada fringilla, magna justo elemen
+tum tellus, at maximus mauris tortor vitae purus. 
+Sed sagittis, sem ac convallis commodo, magna odio
+ finibus purus, quis accumsan tellus urna non nisl
+. In bibendum et ligula non condimentum. Mauris el
+ementum tincidunt semper. Donec pretium luctus dui
+, eget dignissim magna suscipit viverra. Morbi var
+ius dolor justo, consectetur elementum sem molesti
+e at.
+Cras porttitor massa mollis sapien fermentum
+, vel malesuada dolor malesuada. Pellentesque ultr
+ices mauris vitae tempus rhoncus. In luctus luctus
+ iaculis. Cras consectetur est a turpis auctor, ne
+c pretium nisl ultricies. Nunc lobortis ipsum nec 
+tellus sagittis, id semper metus elementum. Phasel
+lus ut viverra eros. Mauris pellentesque pellentes
+que felis. Pellentesque elementum hendrerit posuer
+e. Maecenas varius, eros quis vulputate eleifend, 
+lectus ligula commodo dolor, quis egestas arcu vel
+it id augue. Cras at ornare nibh. Nunc ornare ante
+ at rhoncus mollis. Donec sed laoreet eros.
+
+
+Number of alphanumeric characters: 2424
+Total number of characters: 2945
